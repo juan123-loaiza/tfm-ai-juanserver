@@ -23,4 +23,4 @@ jobs:
             cd /home/juanes/repos_dev/dev-frontend
             git pull
             cd /home/juanes/repos_dev
-            docker compose -f docker-compose.dev.yml up -d --no-deps --build dev_frontend
+            docker compose -f docker-compose-dev.yml up -d --no-deps --build dev_frontend
