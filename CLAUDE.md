@@ -4,7 +4,7 @@
 
 Este es un **proyecto de Trabajo Fin de Máster (TFM)** para un programa de IA Generativa. El objetivo es construir una plataforma interactiva de análisis de turismo para las Islas Canarias que democratice el acceso a información turística para pequeñas empresas e instituciones locales.
 
-## Visión Principal 
+## Visión Principal ssfsf
 
 Una aplicación React interactiva que incluye:
 1. **Mapa 3D de las Islas Canarias** - Islas clicables que filtran datos
