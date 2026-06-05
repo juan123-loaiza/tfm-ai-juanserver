@@ -1,4 +1,4 @@
-name: Deploy Frontend to VPS
+name: Deploy Frontend PROD
 
 on:
   push:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Deploy via SSH
+      - name: Deploy via SSH to PROD
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
